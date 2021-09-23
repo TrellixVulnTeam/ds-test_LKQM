@@ -1,6 +1,3 @@
-# ds-test
-General Data Science Coding Exam
-
 # Getting started:
 * Ensure Python > 3.6
 * pip install -r requirements.txt
